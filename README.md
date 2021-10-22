@@ -8,4 +8,7 @@ RegionTPMS_MultiphaseScaffold.nb generates phases based on the defined regions a
 
 RegionTPMS_GradedPorosityScaffold.nb generates 3D graphics and STL files for bone scaffolds with varying porosity (in consideration to the cortical and cancellous bone sections).
 
-DOI: 10.5281/zenodo.4699866
+If you use this work, you can find more details at and cite it as:
+
+Karakoç A., RegionTPMS — Region based triply periodic minimal surfaces (TPMS) for 3-D printed multiphase bone scaffolds with exact porosity values, SoftwareX, Volume 16, 2021, 100835,
+https://doi.org/10.1016/j.softx.2021.100835.
